@@ -1,0 +1,1 @@
+# minimization-by-quadratic-interpolation
